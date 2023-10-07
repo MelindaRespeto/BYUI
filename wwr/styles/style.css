@@ -32,13 +32,21 @@ body {
   }
   a:hover {
     background-color: white;
-    color:red
+    color:red;
   } 
   .book {
-    background-color: orange);
-    color:black
+    background-color: orange;
+    color:black;
   }
   .join {
-    background-color: lightpink);
-    color:black
+    background-color: lightpink;
+    color:black;
+  }
+  .book:hover {
+    background-color: white;
+    color:red;
+  }
+  .join:hover {
+    background-color: white;
+    color:red;
   }
