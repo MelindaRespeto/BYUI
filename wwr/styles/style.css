@@ -14,6 +14,9 @@ header a {
 #hero-msg h4 {
     text-align: center;
 }  
+#hero-img {
+    width: 100%
+}
 .button-box {
     text-align: center;
 }
@@ -24,7 +27,7 @@ main section {
     height: 500px;
 }
 body {
-    background-color: lightblue;
+    background-color: darkcyan;
     color: black;
   }
   header {
@@ -62,4 +65,8 @@ body {
     background-color: white;
     color:black;
   }
+  
+  
+  footer, {
+    font-size: 1.2em;
   
