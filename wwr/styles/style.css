@@ -25,10 +25,10 @@ main section {
 }
 body {
     background-color: lightblue;
-    color: lightgreen;
+    color: black;
   }
   header {
-    background-color: black;
+    background-color: darkolivegreen;
   }
   a:hover {
     background-color: white;
