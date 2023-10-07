@@ -11,6 +11,9 @@ header a {
 #hero-msg h1 {
     text-align: center;
 }
+#hero-msg h2 {
+  text-align: center;
+}
 #hero-msg h4 {
     text-align: center;
 }  
@@ -38,7 +41,7 @@ body {
     color:red;
   } 
   .book {
-    background-color: orange;
+    background-color: black;
     color:black;
   }
   .join {
