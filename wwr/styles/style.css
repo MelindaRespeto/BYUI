@@ -2,6 +2,9 @@
 #content {
     margin: 0 auto;
 }
+div {
+    max-width: 1600px;}
+    
 header a {
     text-align: center;
 }
@@ -17,3 +20,10 @@ header a {
 main section {
     text-align: center;
 } 
+#background {
+    height: 725px;
+}
+body {
+    background-color: lightblue;
+  }
+  
