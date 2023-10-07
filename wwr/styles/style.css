@@ -54,3 +54,7 @@ body {
     background-color: gray;
     color:red;
   }
+  .msg [
+    background-color: white;
+    color:red;
+  ]
