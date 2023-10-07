@@ -39,7 +39,7 @@ body {
     color:black;
   }
   .join {
-    background-color: lightpink;
+    background-color: whitesmoke;
     color:black;
   }
   .book:hover {
@@ -47,6 +47,10 @@ body {
     color:red;
   }
   .join:hover {
+    background-color: white;
+    color:red;
+  }
+  #background {
     background-color: white;
     color:red;
   }
